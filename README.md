@@ -2,14 +2,14 @@
 ## Vehicle Detection, Tracking and Counting Project
 
 Proyek ini memanfaatkan YOLOv8 untuk mendeteksi dan menghitung kendaraan yang melintasi garis gerbang miring di sebuah video. Sistem ini dirancang untuk memproses frame video secara real-time, melacak setiap kendaraan dengan ID unik, dan menghitungnya saat melintasi gerbang. Hasilnya adalah video output di mana kendaraan diidentifikasi, dilacak, dan dihitung secara akurat.
-==========================================================================================================================================
+
 
 ## Fitur Utama:
 Deteksi Kendaraan: Menggunakan model YOLOv8 untuk mendeteksi kendaraan seperti mobil, bus, dan lainnya.
 Pelacakan Kendaraan: Setiap kendaraan yang terdeteksi dilacak di setiap frame dengan ID unik yang ditampilkan dalam kotak pembatas.
 Penghitungan Kendaraan: Kendaraan dihitung saat mereka melewati garis gerbang miring yang telah ditentukan.
 Video Output: Video hasil proses yang menunjukkan kendaraan terdeteksi, dilacak, dan dihitung, disimpan sebagai file output.
-==========================================================================================================================================
+
 
 ## Tutorial Menjalankan Proyek:
 1. Clone Repository dari GitHub
@@ -41,7 +41,7 @@ Setelah script selesai dijalankan, video output akan disimpan di direktori proye
 8. Menghentikan Virtual Environment
 Jika sudah selesai, nonaktifkan virtual environment dengan perintah:
 deactivate
-==========================================================================================================================================
+
 
 ## Penjelasan Kode:
 - Mengimpor Library yang Diperlukan:
