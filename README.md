@@ -1,4 +1,4 @@
-# TaskIntern-WidyaRobotic
+# Task Intern - Widya Robotic - Putri Ajeng Imamah
 ## Vehicle Detection, Tracking and Counting Project
 
 Proyek ini memanfaatkan YOLOv8 untuk mendeteksi dan menghitung kendaraan yang melintasi garis gerbang miring di sebuah video. Sistem ini dirancang untuk memproses frame video secara real-time, melacak setiap kendaraan dengan ID unik, dan menghitungnya saat melintasi gerbang. Hasilnya adalah video output di mana kendaraan diidentifikasi, dilacak, dan dihitung secara akurat.
